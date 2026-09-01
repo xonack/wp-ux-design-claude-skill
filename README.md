@@ -1,3 +1,5 @@
+
+
 # wp-ux-design-claude-skill
 
 WordPress UX/design enforcement skill covering Core Web Vitals, mobile-first design, typography systems, color management, navigation UX, page builder patterns, and loading/error states.
@@ -12,7 +14,7 @@ WordPress UX/design enforcement skill covering Core Web Vitals, mobile-first des
 
 ### Manual Installation
 
-Copy the skill file to your Claude Code skills directory:
+Copy the skill file from the repository root to your Claude Code skills directory:
 
 ```bash
 mkdir -p ~/.claude/skills/wp-ux-design
